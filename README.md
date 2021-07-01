@@ -1,4 +1,3 @@
-# LandingPage
 
 This web starter template is based on Spring, SQLite. Check the following links for documentation and guides:
 
